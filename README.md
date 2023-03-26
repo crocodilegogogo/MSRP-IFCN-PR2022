@@ -11,7 +11,7 @@ This paper proposes a time series classification method, named MSRP-IFCN. It is 
 2. We propose an Inception architectural network, IFCN. IFCN outperforms other TSC networks in terms of extracting multi-scale features from MSRP images. 
 3. Our proposed MSRP-IFCN performs well on 85 UCR datasets. 
 
-![MSRP](F:\Ensemble-master-MS-RP\MSRP_flow.png)
+![MSRP](MSRP_flow.png)
 
 ## Citation
 
