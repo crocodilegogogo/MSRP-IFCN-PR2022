@@ -1,5 +1,5 @@
 # Multi-scale Signed Recurrence Plot Based Time Series Classification Using Inception Architectural Networks
-This is the project of manuscript 'Multi-scale Signed Recurrence Plot Based Time Series Classification Using Inception Architectural Networks'. This paper has been published at Pattern Recognition (2021) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320321005653).
+This is the project of manuscript 'Multi-scale Signed Recurrence Plot Based Time Series Classification Using Inception Architectural Networks'. This paper has been published at Pattern Recognition (2022) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320321005653).
 
 ![archi](MSRP_IFCN_archi.png)
 
